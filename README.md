@@ -130,8 +130,6 @@ Westcliff University | Irvine, CA
 
 ## 🔗 Featured Projects
 
-- **[Basic CRUD in Golang](https://github.com/rupysdxe/Basic_CRUD_IN_Golang)** - RESTful API implementation demonstrating clean architecture
-- **[NFC Payment System](https://github.com/rupysdxe/NFCPaymentSystem)** - Android application for secure NFC-based payment processing
 
 ---
 
